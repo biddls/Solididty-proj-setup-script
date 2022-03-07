@@ -1,5 +1,5 @@
 const { expect } = require("chai");
-const { testing } = require("../script/testing.js");
+const { testing } = require("../scripts/testing.js");
 
 describe("ContFoo", function () {
 
